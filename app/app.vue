@@ -58,7 +58,7 @@ useSeoMeta({
 
     <USeparator icon="i-simple-icons-nuxtdotjs" />
 
-    <UFooter>
+    <!-- <UFooter>
       <template #left>
         <p class="text-sm text-muted">
           Built with Nuxt UI • © {{ new Date().getFullYear() }}
@@ -75,6 +75,6 @@ useSeoMeta({
           variant="ghost"
         />
       </template>
-    </UFooter>
+    </UFooter> -->
   </UApp>
 </template>
